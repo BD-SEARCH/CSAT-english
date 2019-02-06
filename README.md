@@ -1,5 +1,5 @@
 # CSAT-english
-내가 수능을 잘볼까 인공지능이 잘풀까..! ([19년도 수능  AI울프람 : 12점](https://www.sedaily.com/NewsView/1S77NB1A2F))
+내가 수능을 잘볼까 인공지능이 잘풀까..! ([19년도 수능  AllenNLP : 12점](https://www.sedaily.com/NewsView/1S77NB1A2F))
 
 - MINSU
 - JAMES
