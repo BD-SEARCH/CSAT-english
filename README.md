@@ -10,4 +10,4 @@ vs
 
 누가 더 수능 영어를 잘 푸는지 500원 걸고 내기를 합니다
 
-- (trello)[https://trello.com/b/t7L73ai6]
+- [trello](https://trello.com/b/t7L73ai6)
